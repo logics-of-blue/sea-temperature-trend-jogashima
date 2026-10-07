@@ -7,3 +7,6 @@
 
 論文は以下から読むことができます。
 https://www.jstage.jst.go.jp/article/jsfo/88/3/88_190/_article/-char/ja
+
+
+License: GPL (>= 2)
